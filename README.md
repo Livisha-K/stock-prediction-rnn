@@ -9,17 +9,19 @@
     </p>
 
   <h2>Block Diagram</h2>
-![Screenshot 2023-12-30 090114](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/c0f38f13-81af-42dd-88f3-cb2bda327433.JPG)
+  
+  ![Screenshot 2023-12-30 090114](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/c0f38f13-81af-42dd-88f3-cb2bda327433)
+
+  ![Screenshot 2023-12-30 090050](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/0fa75957-d111-4106-8722-6dd3182ad764)
 
  <h2>Mobile App UI</h2>
-    <p>
-        <img src="![Screenshot 2023-12-30 090327](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/f4c67b39-4113-48b7-b81a-472c49221e18)" alt="Mobile App UI">
-    </p>
+
+![Screenshot 2023-12-30 090327](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/f4c67b39-4113-48b7-b81a-472c49221e18)
 
  <h2>Website UI</h2>
-    <p>
-        <img src="![Screenshot 2023-12-30 090232](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/556e47c2-09d0-4e11-84ee-b7d04fa8bc72)" alt="Website UI">
-    </p>
+
+![Screenshot 2023-12-30 090232](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/556e47c2-09d0-4e11-84ee-b7d04fa8bc72)
+  
   <h3>Prerequisites</h3>
     <p>
         Make sure you have the following installed:
