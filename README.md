@@ -9,7 +9,7 @@
     </p>
 
   <h2>Block Diagram</h2>
-![Screenshot 2023-12-30 090114](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/c0f38f13-81af-42dd-88f3-cb2bda327433)
+![Screenshot 2023-12-30 090114](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/c0f38f13-81af-42dd-88f3-cb2bda327433.JPG)
 
  <h2>Mobile App UI</h2>
     <p>
