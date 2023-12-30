@@ -9,10 +9,7 @@
     </p>
 
   <h2>Block Diagram</h2>
-    <p>
-        <img src="![Screenshot 2023-12-30 090114](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/c0f38f13-81af-42dd-88f3-cb2bda327433.jpg)" alt="Block Diagram">
-      <img src="![Screenshot 2023-12-30 090050](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/0fa75957-d111-4106-8722-6dd3182ad764)" alt="Mind Map">
-    </p>
+![Screenshot 2023-12-30 090114](https://github.com/Livisha-K/stock-prediction-rnn/assets/141634864/c0f38f13-81af-42dd-88f3-cb2bda327433)
 
  <h2>Mobile App UI</h2>
     <p>
